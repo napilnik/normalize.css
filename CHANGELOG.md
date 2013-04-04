@@ -1,3 +1,7 @@
+== 2.1.0PlusLegacy (April 04, 2013)
+Merge Normalize 2 and Normalize 1. 
+<Q> remains as in Normalize 2 with quotes
+
 == HEAD
 
 * Normalize root `color` and `background` to counter the effects of system
@@ -41,3 +45,4 @@
 * Remove excess padding from checkbox and radio inputs in IE 7 (#42).
 * Add IE9 correction for SVG overflow (#16).
 * Add fix for legend not inheriting color in IE 6/7/8/9.
+
